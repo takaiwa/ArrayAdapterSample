@@ -1,0 +1,26 @@
+<resources>
+
+    <string name="app_name">ArrayAdapterSample</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string-array name="tsumami">
+        <item >りんご</item>
+        <item>発泡酒</item>
+        <item>チーズ</item>
+        <item>豆腐</item>
+        <item>マヨネーズ</item>
+        <item>サラミ</item>
+        <item>さきいか</item>
+        <item>赤貝の缶詰</item>
+        <item>味付けカワハギ</item>
+        <item>冷凍シメサバ</item>
+        <item>冷凍一口餃子</item>
+        <item>チーズかまぼこ</item>
+        <item>柿の種わさび</item>
+        <item>CRATZ</item>
+        <item>ベビースターラーメン</item>
+        <item>カラムーチョ</item>
+        <item>ビーノ</item>
+    </string-array>
+</resources>
